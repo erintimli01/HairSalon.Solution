@@ -1,0 +1,9 @@
+body {
+  color: rgb(1, 107, 107);
+  background-color: rgb(164, 161, 161);
+  text-decoration: none;
+  text-align:center;
+  font-size: x-large;
+  /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+  font-variant: small-caps;
+}
