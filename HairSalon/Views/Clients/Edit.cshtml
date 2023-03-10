@@ -6,14 +6,14 @@
 
 <h2>Edit</h2>
 
-<h4>Edit this client: @Html.DisplayFor(model => model.Description)</h4>
+<h4>Edit this client: @Html.DisplayFor(model => model.ClientDescription)</h4>
 
 @using (Html.BeginForm())
 {
   @Html.HiddenFor(model => model.ClientId)
 
-  @Html.LabelFor(model => model.Description)
-  @Html.EditorFor(model => model.Description)
+  @Html.LabelFor(model => model.ClientDescription)
+  @Html.EditorFor(model => model.ClientDescription)
 
   @Html.LabelFor(model => model.Stylist)
   @Html.DropDownList("StylistId")
