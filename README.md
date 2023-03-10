@@ -53,6 +53,6 @@ _As the salon owner, I need to be able to add new clients to a specific stylist.
 
 ## License
 
-_Reach out with any questions or concerns and feel free to make any contributions!_
+_Reach out with any questions or concerns and please feel free to make any contributions!_
 
 MIT (c) _2023_ _Erin Timlin_
