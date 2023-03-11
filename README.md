@@ -32,7 +32,7 @@ _As the salon owner, I need to be able to add new clients to a specific stylist.
 <pre><code>"ConnectionStrings": { "DefaultConnection": "Server=localhost;Port=3306;database=erin_timlin;uid=[YOUR-USERNAME-HERE];pwd=[YOUR-PASSWORD-HERE];" }</code></pre>
 <strong>Please note! Make sure to enter your username for MySQLWorkbench in [YOUR-USERNAME-HERE] and password for MySQLWorkbench in [YOUR-PASSWORD-HERE], making sure to remove the brackets!</strong>
 
-# Importing The Database
+### Importing The Database
 
 * Open MySQLWorkBench
 * In the Navigator > Administration window, select Data Import/Restore
