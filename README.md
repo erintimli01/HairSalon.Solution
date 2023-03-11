@@ -14,10 +14,10 @@
 
 ## Description
 
-_Eau Claire's Salon_
+# Eau Claire's Salon
 _This is a MVC web application to help Eau Claire manage her employees (stylists) and their clients. Claire will be able to add a list of stylists working at the salon, and for each stylist, add clients who see that stylist. The stylists have specific specialties, so each client can only see (belong to) a single stylist._
 
-_User Stories_
+# User Stories
 _As the salon owner, I need to be able to see a list of all stylists._
 _As the salon owner, I need to be able to select a stylist, see their details, and see a list of all clients that belong to that stylist._
 _As the salon owner, I need to add new stylists to our system when they are hired._
